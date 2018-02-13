@@ -3,6 +3,7 @@ body
 	background-image: url("https://www.thepiano.sg/sites/thepiano.sg/files/styles/read_article_main_picture/public/thepiano_images/read/2016/09/26/20/22/sticky-piano-keys.jpg?itok=RDU1RDX8");
 	background-repeat: no-repeat;
 	background-size: cover;
+	height: 100%; 
 }
 
 #momentsMusicaux
