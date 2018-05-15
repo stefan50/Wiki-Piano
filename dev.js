@@ -10,18 +10,10 @@ function myDev()
 										});
 	}
 
-	/*function showTable()
+	function dunno()
 	{
-		let table = document.createElement("table");
-		let tr = document.createElement("tr");
-		for(int i=0; i<3; i++)
-		{
-			let th = document.createElement("th");
-			th.value = "sth";
-			tr.appendChild(th);
-		}
+		var par = document.getElementById("quote");
+	}
 
-		table.appendChild(tr);
-	}*/
 	pGoesOut();
 }
