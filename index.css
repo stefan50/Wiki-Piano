@@ -47,10 +47,9 @@ li a:hover:not(.act) {
 	color: Lavender;
 	border-style: dotted;
 	display: block;
-	padding: 0px 500px;
+	padding: 0px 100px;
 	margin: auto;
-	padding: 100;
-	width: 50%;
+	width: 25%;
 }
 
 #quoteOfDay
